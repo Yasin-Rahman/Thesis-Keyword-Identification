@@ -8,10 +8,10 @@
 ###### Dataset Description: Large amount of Email and SMS text data. Can be modified to use with every types of text data like news stories, Twitter, facebook statuses etc.
 
 ###### Included: In built web crawler(crawler.py) made for prothom alo(work in progress) 
-Main code file for spam detection(code.py)
-Main dataset(Comment.csv)
-Just Keyword identification code(Keywords.py)
-Collected Prothom Alo headlines(test files.txt)
+###### Main code file for spam detection(code.py)
+###### Main dataset(Comment.csv)
+###### Just Keyword identification code(Keywords.py)
+###### Collected Prothom Alo headlines(test files.txt)
 
 
 
